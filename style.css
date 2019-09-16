@@ -8,4 +8,11 @@ nav{
   top: 0;
   width: 100%;
   background-color: purple;
+  display: block;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
 }
