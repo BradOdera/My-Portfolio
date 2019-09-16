@@ -46,3 +46,12 @@ section1>#Home>img{
   margin-right: auto;
   width: 95%;
 }
+
+section1>#Home>p{
+  text-align: center;
+  text-shadow: 3px 5px 5px;
+  font-size: 20px;
+  font-family: serif;
+  font-style: italic;
+  color: black;
+}
