@@ -65,10 +65,14 @@ section2>#About>h1{
 
 section2>#About>img{
   padding:10px;
-  border-radius: 200px;
+  border-radius: 400px;
   /* background-color: purple; */
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+
+section2>#About>p{
+  text-align: center;
 }
