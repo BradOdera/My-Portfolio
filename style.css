@@ -53,10 +53,15 @@ section1>#Home>p{
   font-size: 20px;
   font-family: serif;
   font-style: italic;
-  color: black;
+  color: black;  margin-top: 30px;
 }
 
-
+section2>#About>h1{
+  text-align: center;
+  padding: 30px;
+  font-size: 75px;
+  color: purple;
+}
 
 section2>#About>img{
   padding:10px;
