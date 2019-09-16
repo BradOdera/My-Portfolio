@@ -2,6 +2,16 @@ h1{
   color: purple;
 }
 
+nav>ul>li{
+  display:inline;
+  text-decoration: none;
+  padding: 20px;
+  color: 2px solid black;
+}
+nav>ul>li a:hover{
+  color:white;
+}
+
 nav{
   text-align: right;
   position: fixed;
