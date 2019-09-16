@@ -1,3 +1,11 @@
 h1{
   color: purple;
 }
+
+nav{
+  text-align: right;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: purple;
+}
