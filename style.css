@@ -40,7 +40,7 @@ section1>#Home>h1{
 
 section1>#Home>img{
   padding:10px;
-  background-color: purple;
+  /* background-color: purple; */
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -54,4 +54,16 @@ section1>#Home>p{
   font-family: serif;
   font-style: italic;
   color: black;
+}
+
+
+
+section2>#About>img{
+  padding:10px;
+  border-radius: 200px;
+  /* background-color: purple; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
