@@ -37,3 +37,12 @@ section1>#Home>h1{
   font-size: 75px;
   color: purple;
 }
+
+section1>#Home>img{
+  padding:10px;
+  background-color: purple;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+}
