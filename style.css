@@ -69,7 +69,7 @@ section1>#Home>p{
   margin-top: 30px;
 }
 
-section2>#About>h1 , section3>#Skills>h1{
+section2>#About>h1 , section3>#Skills>h1 ,section4>#Contacts>h1{
   text-align: center;
   padding: 30px;
   font-size: 75px;
@@ -178,7 +178,7 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: purple;
   color: white;
   padding: 12px 20px;
   border: none;
